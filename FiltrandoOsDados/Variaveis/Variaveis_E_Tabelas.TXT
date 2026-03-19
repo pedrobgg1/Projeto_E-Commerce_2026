@@ -1,0 +1,78 @@
+1. Tabela clientes: 
+
+customer_id,                      (1 , 6)
+customer_unique_id, 
+customer_zip_code_prefix, 
+customer_city, 
+customer_state
+
+2. Tabela GeoLoc: 
+
+geolocation_zip_code_prefix, 
+geolocation_lat, 
+geolocation_lng, 
+geolocation_city, 
+geolocation_state
+
+3. Tabela OrdemItems: 
+
+order_id,                          (3,4,5,6)
+order_item_id, 
+product_id,                        (3,7)
+seller_id,                         (3,8)
+shipping_limit_date,               (2020-04-09 22:35:08 -Até- 2016-09-19 00:15:34)
+price, 
+freight_value
+
+4. Tabela OrderPayments: 
+
+order_id,                          (3,4,5,6)
+ayment_sequential, 
+payment_type, 
+payment_installments, 
+payment_value
+
+5. Tabela OrderReviews: 
+
+review_id, 
+order_id,                          (3,4,5,6)
+review_score, 
+review_comment_title, 
+review_comment_message, 
+review_creation_date, 
+review_answer_timestamp
+
+6. Tabela OdersDataset: 
+
+order_id,                           (3,4,5,6)
+customer_id,                        (1 , 6 )
+order_status, 
+order_purchase_timestamp, 
+order_approved_at, 
+order_delivered_carrier_date, 
+order_delivered_customer_date, 
+order_estimated_delivery_date
+
+7. Tabela ProductsDS: 
+
+product_id,                         (3,7)
+product_category_name,              (7,9)
+product_name_lenght, 
+product_description_lenght, 
+product_photos_qty, 
+product_weight_g, 
+product_length_cm, 
+product_height_cm, 
+product_width_cm
+
+8. Tabela SellersDS: 
+
+seller_id,                          (3,8)
+seller_zip_code_prefix, 
+seller_city, 
+seller_state
+
+9. Tabela CategoryNameTransl: 
+
+product_category_name,              (7,9)
+product_category_name_english
