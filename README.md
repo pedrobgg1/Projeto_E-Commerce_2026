@@ -2,7 +2,7 @@
 
 O objetivo deste projeto é analisar e descobrir gargalos nas vendas de E-Commerce da empresa Olist. Utilizando ferramentas que possibilitem filtrar, transformar e apresentar os dados encontrados, facilitando assim a análise final.
 
-*Primariamente este projeto foi criado como forma de demonstrar e praticar minhas habilidades com ferramentas de análise de dados e suas interações, não possuindo vinculo trabalhista com a empresa citada*
+*Primariamente este projeto foi criado como forma de demonstrar e praticar minhas habilidades com ferramentas de análise de dados e suas interações, não possuindo vinculo trabalhista com a empresa citada.*
 
 **Link para o dashboard:** [Acesse o Dashboard em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYTEwYWMwNTctMmU1MC00MTBlLWJiZDItNDVlNzcxMDYzYmE3IiwidCI6Ijg4MWUzOTM1LTE5MzktNGVmOC05MWEzLTkwNjcxYTFmNWU2ZSJ9&pageName=74d0c1f43b58959cecc4)
 
