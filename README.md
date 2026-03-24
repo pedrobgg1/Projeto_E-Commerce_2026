@@ -167,7 +167,7 @@ Para garantir uma visão geral da operação, dividi o dashboard em três pilare
 * **Dados Gerais:** Visão macro do faturamento, volume de pedidos e performance de vendas por categoria, entre outras métricas de saúde do negócio.
 
 <p align="center">
-  <img src="img\dashboard_geral.png" width="600px" alt="Print do Dashboard">
+  <img src="img\dashboard_geral1.png" width="600px" alt="Print do Dashboard">
 </p>
 
 * **Logística & Frete:** Análise sobre prazos de entrega e a diferença de performance entre o frete interestadual e estadual.
@@ -208,7 +208,7 @@ Ao analisarmos o ranking de categorias (imagem abaixo), notamos um padrão de co
 * **Esporte e Lazer (7,49 mil itens):** Surpreende em terceiro lugar, mostrando um nicho de mercado forte focado em estilo de vida e hobbies
 
 <p align="center">
-<img src="img\grafico_categoria.png" width="300px" alt="Quantidade de Itens por Categoria">
+<img src="img\grafico_categoria1.png" width="300px" alt="Quantidade de Itens por Categoria">
 </p>
 
 
