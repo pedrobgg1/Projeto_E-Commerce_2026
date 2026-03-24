@@ -4,7 +4,7 @@ O objetivo deste projeto é analisar e descobrir gargalos nas vendas de E-Commer
 
 *Primariamente este projeto foi criado como forma de demonstrar e praticar minhas habilidades com ferramentas de análise de dados e suas interações, não possuindo vinculo trabalhista com a empresa citada*
 
-**Link para o dashboard:** [Acesse o Dashboard em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOTg5MjY4ODAtYjg5Zi00M2YzLTgwMzgtMTRjYzQxNmI4MjdlIiwidCI6Ijg4MWUzOTM1LTE5MzktNGVmOC05MWEzLTkwNjcxYTFmNWU2ZSJ9)
+**Link para o dashboard:** [Acesse o Dashboard em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYTEwYWMwNTctMmU1MC00MTBlLWJiZDItNDVlNzcxMDYzYmE3IiwidCI6Ijg4MWUzOTM1LTE5MzktNGVmOC05MWEzLTkwNjcxYTFmNWU2ZSJ9&pageName=74d0c1f43b58959cecc4)
 
 ## Realização do Projeto
 
